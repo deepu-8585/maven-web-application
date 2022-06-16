@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>pradeep bommineni</name>
-	      <url>http://13.126.248.138:8081/repository/maven-release/</url>
+	      <url>http://http://52.87.226.118:8081/repository/pradeeprelease//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>pradeep bommineni</name>
-	      <url>http://13.126.248.138:8081/repository/maven-snapshot/</url>
+	      <url>http://http://52.87.226.118:8081/repository/pradeepsnapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
