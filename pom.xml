@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://34.203.249.155:8081/repository/pradeeprelease/</url>
+	      <url>http://3.231.227.124:8081/repository/pradeeprelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.203.249.155:8081/repository/pradeepsnapshot/</url>
+	      <url>http://3.231.227.124:8081/repository/pradeepsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
