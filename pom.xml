@@ -107,7 +107,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.199.204.29:8081/repository/pradeepsnapshot/</url>
+	      <url>http://44.199.204.29:8081//repository/pradeepsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
